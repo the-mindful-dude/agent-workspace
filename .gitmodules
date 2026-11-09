@@ -1,0 +1,6 @@
+[submodule "neuron"]
+	path = neuron
+	url = https://github.com/neuron-runtime/neuron.git
+[submodule "simplify"]
+	path = simplify
+	url = https://github.com/the-mindful-dude/simplify.git
